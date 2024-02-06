@@ -26,6 +26,6 @@
 
 ###
 
-<p align="left">🚀 <b>Minhas Habilidades:</b><br><br>💻 Linguagens de programação: Java, Python, JavaScript.<br>🗄️ Banco de dados: Conhecimentos práticos e teóricos.<br>🛠️ Metódica e detalhista, com forte habilidade em organização e gestão de projetos.<br><br>📫 <b>Contato:</b><br><br>- 📧 Email: [patricianaomiyama@gmail.com].<br>- 🔗 LinkedIn: [https://www.linkedin.com/in/patinaomi/].</p>
+<p align="left">🚀 <b>Minhas Habilidades:</b><br><br>💻 Linguagens de programação: Java, Python, JavaScript.<br>🗄️ Banco de dados: Conhecimentos práticos e teóricos.<br>🛠️ Metódica e detalhista, com forte habilidade em organização e gestão de projetos.<br><br>📫 <b>Contato:</b><br><br>- 📧 Email: patricianaomiyama@gmail.com.<br>- 🔗 LinkedIn: https://www.linkedin.com/in/patinaomi/.</p>
 
 ###
