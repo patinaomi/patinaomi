@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Patricia and I'm a dev student, from Brazil!</h2>
 
-### sossoso
-
 <p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Programação na FIAP com foco em desenvolvimento back-end.<br>🔄 Profissional dedicada com 10 anos de experiência no comércio de moda, atualmente em transição para o desenvolvimento de software, seguindo minha paixão pela tecnologia.<br>🌱 Aprendendo e aprimorando habilidades em Java, Python, JavaScript e banco de dados.<br>🔍 Em busca de oportunidades de estágio em desenvolvimento back-end para aplicar e expandir meu conhecimento.</p>
 
 ###
@@ -24,10 +22,10 @@
 
 ###
 
-<img align="right" height="225" src="https://i.postimg.cc/wMFgHTPf/Whats-App-Image-2024-02-04-at-21-50-34.jpg"  />
+<img align="right" height="225" src="https://i.postimg.cc/wMFgHTPf/Whats-App-Image-2024-02-04-at-21-50-34.jpg"/>
 
 ###
 
-<p align="left">🚀 **Minhas Habilidades:**<br><br>💻 Linguagens de programação: Java, Python, JavaScript.<br>🗄️ Banco de dados: Conhecimentos práticos e teóricos.<br>🛠️ Metódica e detalhista, com forte habilidade em organização e gestão de projetos.<br><br>📫 **Contato:**<br><br>- 📧 Email: [patricianaomiyama@gmail.com].<br>- 🔗 LinkedIn: [https://www.linkedin.com/in/patinaomi/].</p>
+<p align="left">🚀 <b>Minhas Habilidades:</b><br><br>💻 Linguagens de programação: Java, Python, JavaScript.<br>🗄️ Banco de dados: Conhecimentos práticos e teóricos.<br>🛠️ Metódica e detalhista, com forte habilidade em organização e gestão de projetos.<br><br>📫 <b>Contato:</b><br><br>- 📧 Email: [patricianaomiyama@gmail.com].<br>- 🔗 LinkedIn: [https://www.linkedin.com/in/patinaomi/].</p>
 
 ###
