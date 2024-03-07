@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋!</h2>
 
-<p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Programação na FIAP com foco em desenvolvimento back-end.<br>🔄 Profissional dedicada com 10 anos de experiência no comércio de moda, atualmente em transição para o desenvolvimento de software, seguindo minha paixão pela tecnologia.<br>🌱 Aprendendo e aprimorando habilidades em Java, Python, JavaScript e banco de dados.<br>🔍 Em busca de oportunidades de estágio em desenvolvimento back-end para aplicar e expandir meu conhecimento.</p>
+<p align="left">🔍 <b>Sobre Mim:</b><br><br>🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP com foco em desenvolvimento back-end.<br>🔄 Profissional dedicada com 10 anos de experiência no comércio de moda, atualmente em transição para o desenvolvimento de software, seguindo minha paixão pela tecnologia.<br>🌱 Aprendendo e aprimorando habilidades em Java, Python, JavaScript e banco de dados.<br>🔍 Em busca de oportunidades de estágio em desenvolvimento back-end para aplicar e expandir meu conhecimento.</p>
 
 ###
 
